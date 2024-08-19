@@ -13,7 +13,6 @@ This project is a customizable countdown timer that allows users to set their ow
 
 1. Clone the repository: `git clone https://github.com/your-username/custom-countdown.git`
 2. Navigate to the project directory: `cd custom-countdown`
-3. Install dependencies: `npm install`
 
 ## Usage
 
