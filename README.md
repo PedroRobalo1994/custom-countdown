@@ -1,6 +1,6 @@
 # Custom Countdown
 
-This project is a customizable countdown timer that allows users to set their own countdown duration and receive visual and audio notifications when the countdown reaches zero.
+This project is a customizable countdown timer that allows users to set their own countdown duration and receive visual feedback when the countdown reaches zero.
 
 ## Features
 
